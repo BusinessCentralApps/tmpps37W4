@@ -1,8 +1,9 @@
 {
-  "type": "PTE",
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/fb27afbcab20378ab0ac0978e7efe4131bdc0962/Actions/.Modules/settings.schema.json",
+  "type": "PTE",
   "MicrosoftTelemetryConnectionString": "",
   "templateUrl": "https://github.com/businesscentralapps/tmpageVVM-PTE@main",
   "doNotPublishApps": true,
-  "useCompilerFolder": true
+  "useCompilerFolder": true,
+  "templateSha": "9cc8842d2e3f7c9e7b96d7587f6bc4ed184678ed"
 }
